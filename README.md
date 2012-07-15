@@ -3,4 +3,4 @@ glitch
 
 effect
 
-[image]: https://github.com/nowri/glitch/raw/master/introduction.png "introduction"
+![Alt introduction](https://github.com/nowri/glitch/raw/master/introduction.png)
